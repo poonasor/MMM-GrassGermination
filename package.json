@@ -1,8 +1,8 @@
 {
-  "name": "mmm-template",
+  "name": "mmm-grassgermination",
   "version": "1.0.0",
-  "description": "[Module description]",
-  "main": "MMM-Template.js",
+  "description": "MagicMirror² module showing grass germination readiness using live weather data",
+  "main": "MMM-GrassGermination.js",
   "scripts": {
     "lint": "eslint",
     "lint:fix": "eslint --fix",

@@ -1,11 +1,6 @@
-# MMM-Template
-Use this template for creating new MagicMirror² modules.
+# MMM-GrassGermination
 
-See the [wiki page](https://github.com/Dennis-Rosenbaum/MMM-Template/wiki) for an in depth overview of how to get started.
-
-# MMM-Template
-
-*MMM-Template* is a module for [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) that displays ... [Module description]
+*MMM-GrassGermination* is a module for [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) that displays grass germination readiness based on live weather conditions.
 
 ## Screenshot
 

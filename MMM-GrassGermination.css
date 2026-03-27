@@ -1,0 +1,88 @@
+.MMM-GrassGermination {
+  font-size: 14px;
+  max-width: 360px;
+}
+
+.MMM-GrassGermination .module-header {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+  letter-spacing: 1px;
+}
+
+.MMM-GrassGermination .section {
+  margin-bottom: 12px;
+}
+
+.MMM-GrassGermination .section-title {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 6px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 2px;
+}
+
+.MMM-GrassGermination .row {
+  display: flex;
+  justify-content: space-between;
+  margin: 3px 0;
+}
+
+.MMM-GrassGermination .label {
+  color: #aaa;
+  margin-right: 8px;
+}
+
+.MMM-GrassGermination .status-ideal {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.MMM-GrassGermination .status-good {
+  color: #cddc39;
+  font-weight: bold;
+}
+
+.MMM-GrassGermination .status-marginal {
+  color: #ff9800;
+  font-weight: bold;
+}
+
+.MMM-GrassGermination .status-not-ideal {
+  color: #f44336;
+  font-weight: bold;
+}
+
+.MMM-GrassGermination .grass-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 4px;
+}
+
+.MMM-GrassGermination .grass-table th {
+  text-align: left;
+  color: #888;
+  font-size: 11px;
+  font-weight: normal;
+  padding-bottom: 4px;
+}
+
+.MMM-GrassGermination .grass-table td {
+  padding: 2px 0;
+  color: #ddd;
+}
+
+.MMM-GrassGermination .grass-table td:last-child {
+  text-align: right;
+  color: #aaa;
+}
+
+.MMM-GrassGermination .loading {
+  color: #888;
+  font-style: italic;
+}
+
+.MMM-GrassGermination .error {
+  color: #f44336;
+}
